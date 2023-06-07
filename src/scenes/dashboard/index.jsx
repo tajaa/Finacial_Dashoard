@@ -55,7 +55,7 @@ const Dashboard = () => {
           justifyContent="center"
         >
           <StatBox
-            title="12,361"
+            title=""
             subtitle="Emails Sent"
             progress="0.75"
             increase="+14%"
@@ -148,9 +148,9 @@ const Dashboard = () => {
               <Typography
                 variant="h3"
                 fontWeight="bold"
-                color={colors.greenAccent[500]}
+                color={colors.greenAccent[100]}
               >
-                $59,342.32
+                $
               </Typography>
             </Box>
             <Box>
